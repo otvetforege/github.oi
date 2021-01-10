@@ -1,0 +1,22 @@
+.main__block {
+    display: flex;
+    justify-content: space-around;
+    margin: 0 auto;
+}
+.exercise__link {
+    text-decoration: none;
+    font-size: 20px;
+    font-weight: 700;
+    text-transform: uppercase;
+    border: 2px solid #333;
+    padding: 10px 30px;
+    color: #333;
+}
+.block {
+    text-align: center;
+    text-transform: uppercase;
+    
+}
+.elastic li.hide {
+    display: none;
+}
